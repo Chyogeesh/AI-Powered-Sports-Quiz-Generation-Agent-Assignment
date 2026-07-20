@@ -1,0 +1,12 @@
+sports-quiz-agent/
+├── .env.example
+├── .gitignore
+├── requirements.txt
+├── README.md
+├── data/sports_facts.json
+├── src/__init__.py
+├── src/config.py
+├── src/database.py
+├── src/search.py
+├── src/generator.py
+└── app.py
